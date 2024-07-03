@@ -7,8 +7,8 @@ This repository contains a C++ implementation of a comprehensive vehicle registr
    - Secure user authentication for accessing system features.
 
 2. **Vehicle Management:**
-   - Add, update, search, and delete vehicle records.
-   - Display vehicle details, including registration number, make, model, and year.
+   - Add, update, search, and delete vehicle records with significant ease.
+   - Display vehicle details, including registration number, make, model, and year with a good layout design.
 
 3. **Sorting Functionality:**
    - Sort vehicles based on registration number in ascending or descending order.
